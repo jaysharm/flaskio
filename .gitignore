@@ -1,0 +1,9 @@
+config.py
+config.pyc
+twillio_manager.pyc
+.idea/encodings.xml
+.idea/flaskapiserver.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
